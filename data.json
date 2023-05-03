@@ -1,0 +1,314 @@
+[
+    {
+    "id": 1,
+    "chef_picture": "https://drupal8-prod.visitcalifornia.com/sites/drupal8-prod.visitcalifornia.com/files/styles/fluid_1000/public/2020-06/cn_blog_curtisstonecommunitymarkets_supplied_curtisatmaude-raykachatorian.jpg?itok=HNKhI95D",
+    "chef_name": "Curtis Stone",
+    "years_of_experience": 30,
+    "num_of_recipes": 100,
+    "likes": 400,
+    "bio": "Curtis Travis Stone is an Australian celebrity chef, author and television personality. Stone has been the fresh food and recipes ambassador for Coles Supermarkets in Australia since 2010",
+    "recipes": [
+      {
+        "title": "Mint Brownies",
+        "ingredients": [
+          "butter",
+          "unsweetened chocolate",
+          "large eggs",
+          "all purpose flour",
+          "teaspoon vanilla extract"
+        ],
+        "recipieImg":  "https://www.curtisstone.com/sites/default/files/recipe/03-091-A-Best-Fudge-Brownies.jpg",
+        "cooking_method": "In a small saucepan, combine 1/2 cup of the cream and 1/2 cup of the mint and bring to a simmer over medium-high heat, muddling and stirring often. In a medium bowl, place the finely chopped chocolate and set a strainer over the chocolate. Pour the minted cream through the strainer and over the chocolate; discard the mint leaves. Stir until the chocolate melts and the mixture is well blended. Cool to room temperature.",
+        "rating": 4.9
+      },
+      {
+        "title": "Chocolate Souffles",
+        "ingredients": [
+          "unsalted butter, melted, cooled",
+          "suger",
+          "large egg whites",
+          "high-quality dark chocolate",
+          "cocoa powder"
+        ],
+        "recipieImg":  "https://www.curtisstone.com/sites/default/files/recipe/03-005-A-Chocolate-Souffles.jpg",
+        "cooking_method": "Preheat the oven to 350°F. Coat the interiors of six 7.75-ounce soufflé dishes completely with some of the butter. Refrigerate until the butter is cold and set, about 2 minutes.",
+        "rating": 4.7
+      },
+      {
+        "title": "Miso Soup",
+        "ingredients": [
+          "heavy whipping cream",
+          "fresh raspberries",
+          "powdered sugar",
+          "chocolate"
+        ],
+        "recipieImg":  "https://www.curtisstone.com/sites/default/files/recipe/03-030-A-Raspberry-Whipped-Cream.jpg",
+        "cooking_method": "In a large bowl, using an electric mixer, beat the cream, raspberries, and powdered sugar until the berries fall apart and the mixture is thick and fluffy.",
+        "rating": 4.6
+      }
+    ]
+  },
+  
+  {
+    "id": 2,
+    "chef_picture": "https://www.mediaweek.com.au/wp-content/uploads/2021/04/matt-moran-kitchen-tales-copy.jpg",
+    "chef_name": "Matt Moran",
+    "years_of_experience": 25,
+    "num_of_recipes": 80,
+    "likes": 500,
+    "bio": "Matthew Moran AM is an Australian chef and restaurateur also known for being a guest on various TV cooking shows.",
+    "recipes": [
+      {
+        "title": "Matt Moran's Moreton Bay bugs",
+        "ingredients": [
+          "whole chicken",
+          "lemon",
+          "mild curry powder",
+          "unsalted butter",
+          "ground cumin"
+        ],
+        "recipieImg":  "https://img.delicious.com.au/XenKyq6e/w759-h506-cfill/del/2015/10/pan-fried-moreton-bay-bugs-with-cauliflower-and-jamon-15029-1.jpg",
+        "cooking_method": "Cover and keep warm. Meanwhile, place the remaining cauliflower in a food processor. Pulse until it resembles breadcrumbs. Heat 2 tbs olive oil in a fry pan over medium heat. Cook cauliflower and cumin, stirring, for 4-5 minutes until golden and tender. Season, then set aside and keep warm.",
+        "rating": 4.6
+      },
+      {
+        "title": "Mustard-crusted veal roast",
+        "ingredients": [
+          "hot English mustard",
+          "standing 4-rib veal roast",
+          "olive oil",
+          "unsalted butter",
+          "veal or beef stock"
+        ],
+        "recipieImg":  "https://img.delicious.com.au/9CMNzp4m/w759-h506-cfill/del/2015/10/mustard-crusted-veal-roast-with-red-cabbage-slaw-15025-1.jpg",
+        "cooking_method": "Preheat oven to 200°C. To make mustard crust, combine mustards and parsley in a bowl and set aside. Using a sharp knife, scrape away any excess meat from veal bones, then wrap each bone in foil to prevent burning. Heat oil in a large frypan. Season veal, then add to frypan. Cook, turning, for 5 minutes or until browned all over. Add butter and half the thyme, then, using a spoon, baste veal with butter for 1-2 minutes.",
+        "rating": 4.9
+      },
+      {
+        "title": "Herb and garlic porchetta with roast winter vegetables",
+        "ingredients": [
+          "rock salt",
+          "bunch oregano leaves, finely chopped",
+          "sage leaves, finely chopped",
+          "onions",
+          "thyme, leaves finely chopped"
+        ],
+        "recipieImg":  "https://img.delicious.com.au/24lPhi61/w759-h506-cfill/del/2016/06/herb-and-garlic-porchetta-with-roast-winter-vegetables-32587-2.jpg",
+        "cooking_method": "Sear the beef chuck, then add carrots, potatoes, and onions and cook until softened. Add beef broth and simmer until the beef is tender.",
+        "rating": 4.7
+      }
+    ]
+  },
+  
+  {
+    "id": 3,
+    "chef_picture": "https://carriageworks.com.au/wp-content/uploads/Summer-Night-Market-2019-Carriageworks-Image-Jacquie-Manning-5-848x477.jpg",
+    "chef_name": "Gordon Ramsay",
+    "years_of_experience": 30,
+    "num_of_recipes": 75,
+    "likes": 500,
+    "bio": "Kylie Jane Kwong AM (born 31 October 1969) is an Australian television chef, author, television presenter and restaurateur.",
+    "recipes": [
+    {
+    "title": "Kylie Kwong's stir-fried Australian native greens with garlic",
+    "ingredients": [
+    "peanut oil",
+    "salt flakes",
+    "garlic cloves, crushed",
+    "saltbush leaves and warrigal greens",
+    "organic tamari",
+    "sesame oil"
+    ],
+    "recipieImg":  "https://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/Gt/2019/09/04/17798/web_KylieKwonggreens.jpg?width=963&height=802&mode=crop&anchor=topcenter&quality=75",
+    "cooking_method": "Heat peanut oil in a wok over high heat until shimmering, then add garlic and ½ tsp sea salt flakes and stir-fry until fragrant (30 seconds). Add saltbush and warrigal greens and stir-fry until just wilting (2-3 minutes). Add tamari and reduce slightly (30 seconds to 1 minute), then add 60ml water and stir-fry for another 30 seconds to reduce. Add karkalla, bower spinach and sesame oil, and stir-fry to combine (30 seconds), then serve immediately.",
+    "rating": 4.9
+    },
+    {
+    "title": "deep-fried duck with Davidson’s plum sauce",
+    "ingredients": [
+    "Sichuan pepper and salt",
+    "olive oil",
+    "duck",
+    "plain four",
+    "Vegetable oil, for frying"
+    ],
+    "recipieImg":  "https://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/Gt/2019/09/13/17797/web_kyliekwongduck.jpg?width=690&height=574&mode=crop&anchor=topcenter&quality=75",
+    "cooking_method": "Rinse duck under cold water. Trim excess fat from inside and outside cavity, but keep neck, parson's nose and winglets intact. Pat dry with paper towels and rub the skin all over with Sichuan pepper and salt. Cover duck and refrigerate overnight to marinate.",
+    "rating": 4.7
+    },
+    {
+    "title": "fried eggs with XO sauce",
+    "ingredients": [
+    "Vegetable oil",
+    "4-6 eggs",
+    "onion",
+    "Thinly sliced spring onions and chillies",
+    "small red chillies"
+    ],
+    "recipieImg":  "https://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/Gt/2019/08/27/17750/web_KylieKwongeggs.jpg?width=690&height=574&mode=crop&anchor=topcenter&quality=75",
+    "cooking_method": "For XO sauce, combine dried shrimp and dried scallops in a small bowl and cover with Shaoxing (liquid needs to completely cover shrimp and scallops completely). Cover with plastic wrap and leave to soak in the refrigerator overnight",
+    "rating": 4.6
+    }
+    ]
+  },
+  
+  {
+    "id": 4,
+    "chef_picture": "https://content.api.news/v3/images/bin/d2f9c84d9b3b4d21b6d9a07d5d336517",
+    "chef_name": "Neil Perry",
+    "years_of_experience": 20,
+    "num_of_recipes": 50,
+    "likes": 300,
+    "bio": "Julia Child is a legendary chef with 20 years of experience in the culinary industry. She has written several best-selling cookbooks, and has developed 50 delicious recipes that are loved by her fans. With 300 likes and counting, Julia's dishes are sure to impress.",
+    "recipes": [
+      {
+        "title": "classic prawn cocktail",
+        "ingredients": [
+          "iceberg lettuce, outer leaves",
+          "lemon wedges",
+          "extra-virgin olive oil",
+          "onion",
+          "large cooked king prawns"
+        ],
+        "recipieImg":  "https://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/Gt/2019/11/20/7100/0108GT-neil-perry-prawn-cocktail.jpg?width=690&height=574&mode=crop&anchor=topcenter&quality=75",
+        "cooking_method": "For sauce, combine ingredients and season to taste with sea salt and ground black pepper. Divide lettuce among 4 plates, squeeze 2 lemon wedges over and drizzle with oil. Season to taste, top with prawns and serve with cocktail sauce and lemon wedges.",
+        "rating": 4.5
+      },
+      {
+        "title": "Steamed blue-eye with black beans",
+        "ingredients": [
+          "beef chuck",
+          "bacon",
+          "carrots",
+          "onions",
+          "red wine"
+        ],
+        "recipieImg":  "https://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/GourmetTraveller/2013/05/08/4965/1108neilblueeye-628.jpg?width=690&height=574&mode=crop&anchor=topcenter&quality=75",
+        "cooking_method": "Sear the beef chuck and bacon, then add carrots and onions and cook until softened. Deglaze the pan with red wine, then add beef broth and simmer until the beef is tender.",
+        "rating": 4.8
+      },
+      {
+        "title": "Whole sea bream with herb butter",
+        "ingredients": [
+          "whole sea bream",
+          "lemon cheeks",
+          "mushrooms",
+          "onions",
+          "red wine"
+        ],
+        "recipieImg":  "https://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/GourmetTraveller/2014/11/10/5269/0108GT-neil-perry-chips-AND-sea-bream.jpg?width=690&height=574&mode=crop&anchor=topcenter&quality=75",
+        "cooking_method": "Sear the chicken thighs and bacon, then sauté mushrooms and onions until softened. Deglaze the pan with red wine, then add chicken broth and simmer until the chicken is cooked through.",
+        "rating": 4.7
+      }
+    ]
+  },
+  
+  {
+      "id": 5,
+      "chef_picture": "https://media.moneymag.com.au/prod/media/library/Money_Mag/2018/02/petergilmore2_tablet.jpg",
+      "chef_name": "Peter Gilmore",
+      "years_of_experience": 15,
+      "num_of_recipes": 40,
+      "likes": 250,
+      "bio": "Peter Gilmore (born 18 May 1968) is an Australian chef. He is the current executive chef of the Quay restaurant,",
+      "recipes": [
+      {
+      "title": "incredible roasted John Dory",
+      "ingredients": [
+      "John Dory",
+      "extra virgin olive oil",
+      "cornstarch",
+      "Micro basil or parsley",
+      "soy sauce"
+      ],
+      "recipieImg":  "https://img.delicious.com.au/gvGs2xdZ/w759-h506-cfill/del/2015/10/roasted-john-dory-with-baby-spinach-and-umami-butter-14988-1.jpg",
+      "cooking_method": "Mix flour, cornstarch, and garlic powder together. Dredge chicken wings in the mixture and fry until crispy. Toss with soy sauce and serve immediately.",
+      "rating": 4.6
+      },
+      {
+      "title": "Yabby tails with buckwheat pikelets and creme fraiche",
+      "ingredients": [
+      "live yabbies",
+      "kimchi",
+      "bacon",
+      "eggs",
+      "green onions"
+      ],
+    "recipieImg":  "https://img.delicious.com.au/C2yKRoig/w759-h506-cfill/del/2015/10/yabby-tails-with-buckwheat-pikelets-and-creme-fraiche-14987-1.jpg",
+      "cooking_method": "Cook rice according to package instructions. Meanwhile, sauté chopped bacon until crispy. Add kimchi and cook until heated through. Add cooked rice and stir until well combined. Make a well in the center of the pan and crack an egg into it. Cover and cook until the egg is set. Garnish with sliced green onions and serve.",
+      "rating": 4.8
+      },
+      {
+      "title": "moscato granita and bush honey cream",
+      "ingredients": [
+      "strawberries, hulled",
+      "caster sugar",
+      "bush flower honey",
+      "spinach",
+      "egg"
+      ],
+    "recipieImg":  "https://img.delicious.com.au/cXL6-CkK/w759-h506-cfill/del/2015/10/strawberries-with-lilly-pillies-moscato-granita-and-bush-honey-cream-14984-1.jpg",
+      "cooking_method": "Cook rice according to package instructions. Meanwhile, sauté sliced beef, carrots, and spinach until cooked through. Fry an egg and set aside. To assemble, place rice in a bowl and top with beef, carrots, spinach, and the fried egg. Serve with gochujang sauce.",
+      "rating": 4.7
+      }
+    ]
+  },
+  
+  {
+    "id": 6,
+    "chef_picture": "https://www.hoteliermiddleeast.com/2021/05/fDFprB7i-calombaris.jpg",
+    "chef_name": "George Calombaris",
+    "years_of_experience": 10,
+    "num_of_recipes": 30,
+    "likes": 800,
+    "bio": "George Dimitrios Calombaris (born 4 October 1978) is an Australian chef and restaurateur. Calombaris was one of the judges of the Network 10 series MasterChef Australia from 2009 to 2019.[1] Prior to his role on MasterChef Australia, Calombaris appeared regularly on the daytime Network Ten cooking show Ready Steady Cook.",
+    "recipes": [
+    {
+    "title": "Grilled haloumi, peach, ham and mint salad",
+    "ingredients": [
+    "yellow peaches, halved, stones removed",
+    "thick Greek-style yoghurt",
+    "shaved ham off the bon",
+    "egg",
+    "gochujang"
+    ],
+    "recipieImg":  "https://img.delicious.com.au/Ruk85cm7/w759-h506-cfill/del/2017/02/grilled-haloumi-peach-ham-and-mint-salad-42331-2.jpg",
+    "cooking_method": "Cook rice according to package instructions. Meanwhile, sauté assorted vegetables and beef until cooked through. Fry an egg to your desired level of doneness. Layer the rice in a bowl, then arrange the vegetables, beef, and egg on top. Serve with gochujang sauce.",
+    "rating": 4.9
+    },
+    {
+    "title": "https://img.delicious.com.au/rZaFL7iL/w759-h506-cfill/del/2017/02/smoky-miso-baba-ghanoush-42329-2.jpg",
+    "ingredients": [
+    "4 large eggplants",
+    "white (shiro) miso paste",
+    "tofu",
+    "garlic",
+    "green onions"
+    ],
+    "recipieImg":  "https://img.delicious.com.au/rZaFL7iL/w759-h506-cfill/del/2017/02/smoky-miso-baba-ghanoush-42329-2.jpg",
+    "cooking_method": "Sauté pork belly, garlic, and green onions in a pot until the pork is browned. Add kimchi and enough water to cover the ingredients, then simmer for 20 minutes. Add tofu and simmer for an additional 10 minutes.",
+    "rating": 4.7
+    },
+    {
+    "title": "Japchae",
+    "ingredients": [
+    "ripe tomatoes",
+    "garlic cloves, thinly sliced",
+    "assorted vegetables",
+    "soy sauce",
+    "sesame oil"
+    ],
+    "recipieImg":  "https://img.delicious.com.au/WGbeDoae/w759-h506-cfill/del/2018/04/strapatsata-eggs-tomato-olive-oil-and-feta-77034-2.jpg",
+    "cooking_method": "Heat 1/3 cup (80ml) oil in a saucepan over medium-high heat. Add onion and garlic, and cook, stirring occasionally, for 6 minutes or until softened. Add tomato paste and cook, stirring, for 3 minutes or until darkened. Add grated tomato and 1/2 cup (125ml) water. Bring to the boil, reduce heat to low and cook for 30 minutes or until thickened. Cover to keep warm",
+    "rating": 4.9
+    }
+    ]
+  }
+  ]
+  
+    
+  
+  
+  
+  
+  
