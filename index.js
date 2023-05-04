@@ -1,14 +1,29 @@
-const express = require("express");
+const express = require('express')
+const cors = require('cors')
+const app = express()
+const port = 5000
 
-const app = express();
+const chef = require('./data/chef.json')
 
-const allMenu = require("./data.json");
+app.use(cors())
 
-app.get("/", (req, res) => {
-    res.send(allMenu);
-});
+app.get('/chef', (req, res) =>{
+  res.send(chef)
+})
 
-app.listen(5000, () =>{
-    console.log("Server is running on port 5000");
-});
+//id base data
+app.get('/chef/:id', (req, res) =>{
+  const id = req.params.id 
+  // console.log(id)
+  const selectedChef = chef.find(c => c.id == id)
+  res.send(selectedChef)
+})
 
+app.get('/', (req, res) => {
+  res.send('Hello World!');
+})
+
+
+app.listen(port, () => {
+  console.log(`chef running on port ${port}`)
+})
